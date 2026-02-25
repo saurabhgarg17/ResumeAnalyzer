@@ -41,7 +41,7 @@ def extract_text_from_docx(file):
     doc = Document(file)
     return "\n".join(p.text for p in doc.paragraphs)
 
-st.set_page_config(page_title="Smart Resume Analyzer", layout="centered")
+st.set_page_config(page_title="Resume Analyzer", layout="centered")
 
 st.title("Resume Analyzer")
 st.write("Analyze how well a resume matches a job description using Python & NLP.")

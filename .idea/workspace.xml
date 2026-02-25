@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e60b542a-4d4f-4416-af1a-b3cf4ae5c43e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleDataToTest/Job_Description_DotNet.docx" beforeDir="false" afterPath="$PROJECT_DIR$/SampleDataToTest/Job_Description_DotNet.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UI.py" beforeDir="false" afterPath="$PROJECT_DIR$/UI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/skills.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/skills.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scorer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scorer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/skill_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/skill_extractor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
