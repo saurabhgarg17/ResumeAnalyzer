@@ -21,6 +21,7 @@ python -m streamlit run ui.py
 ```
 ## Usage
 Upload resume in word or pdf format. Add Job description in text area and click on Analyze Resume.
+<img width="514" height="566" alt="resumeAnalyzer" src="https://github.com/user-attachments/assets/30164823-000c-4127-b03c-58e9378979ac" />
 
 
 ## Tech Stack
